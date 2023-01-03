@@ -1,0 +1,5 @@
+rm -rf MX-M1
+git clone https://github.com/MAMUN-404-CYBER/MX-M1.git
+cd MX-M1
+git pull
+python MX-M1.py
