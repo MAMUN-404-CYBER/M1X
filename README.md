@@ -26,6 +26,6 @@ cd MX-M1
 
 git pull
 
-python M1X.py
+python FREE-X.py
 
 # THANKS FOR USING MY TOOLS🖤
