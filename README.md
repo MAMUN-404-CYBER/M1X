@@ -18,14 +18,14 @@ pip install bs4
 
 # RUN SCRIPT
 
-rm -rf MX-M1
+rm -rf M1X
 
-git clone https://github.com/MAMUN-404-CYBER/MX-M1.git
+git clone https://github.com/MAMUN-404-CYBER/M1X.git
 
 cd MX-M1
 
 git pull
 
-python FREE-X.py
+python M1X.py
 
 # THANKS FOR USING MY TOOLS🖤
