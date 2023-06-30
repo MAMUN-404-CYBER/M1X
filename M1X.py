@@ -1,2 +1,2 @@
-import os
-os.system('xv.cpython-311.so')
+import M1X
+M1X.xv.cpython-311.so()
