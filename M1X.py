@@ -15,7 +15,7 @@ os.system('git pull')
 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    if not os.path.isfile('RMXXD.so'):
+    if not os.path.isfile('TLS.so'):
         os.system('curl -L https://github.com/MAMUN-404-CYBER/M1X/blob/main/TLS.cpython-311.so -o TLS.so') 
         import TLS
     else:
