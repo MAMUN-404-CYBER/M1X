@@ -21,7 +21,7 @@ rm -rf M1X
 
 git clone https://github.com/MAMUN-404-CYBER/M1X.git
 
-cd MX-M1
+cd M1X
 
 git pull
 
